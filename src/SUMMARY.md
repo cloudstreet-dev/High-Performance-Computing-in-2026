@@ -22,3 +22,7 @@
 
 - [When Training Clusters Became Research Clusters](./ml-hpc.md)
 - [Production Patterns and Workload Design](./production-patterns.md)
+
+---
+
+[Acknowledgements](./acknowledgements.md)
