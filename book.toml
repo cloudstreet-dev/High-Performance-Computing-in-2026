@@ -1,0 +1,12 @@
+[book]
+title = "High Performance Computing in 2026"
+authors = ["CloudStreet"]
+description = "A practical guide to GPU computing, parallel programming, and the intersection of HPC with modern ML workloads."
+src = "src"
+language = "en"
+
+[output.html]
+site-url = "/High-Performance-Computing-in-2026/"
+git-repository-url = "https://github.com/cloudstreet-dev/High-Performance-Computing-in-2026"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/cloudstreet-dev/High-Performance-Computing-in-2026/edit/main/{path}"
